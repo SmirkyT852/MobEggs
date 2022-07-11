@@ -1,2 +1,2 @@
 # MobEggs
-Src.Main is the data pack
+src/main is the data pack
